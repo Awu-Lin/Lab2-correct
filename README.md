@@ -1,5 +1,7 @@
 # Lab2
 
+Important: My video is too big so I can't upload it, please visit the Vedio.md file to get the google drive site where my video is stored!
+
 I ran into some technical issues, my controller stopped working while I was testing it and I tried everything I could to help reconnect it but that didn't work (even I replaced the battery but that didn't work either) so instead of providing a REAL demo in the demo I tried to go into as much detail as I could to explain what I did and why they worked. I don't want that to happen either... I hope you understand my situation and that my explanation in the video satisfies you.
  
 **Function Introduction**
