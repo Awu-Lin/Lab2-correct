@@ -16,7 +16,7 @@ public class StoneTrigger1 : MonoBehaviour
         {
             // Randomly select a tree and make it disappear
             int randomTreeIndex = Random.Range(0, trees.Length);
-            trees[randomTreeIndex].SetActive(false);
+            trees[randomTreeIndex].SetActive(false); // boom! disappear
         }
 
         // Detect if the incoming object is a green stone tagged 'transmission'
