@@ -3,6 +3,11 @@
 Important: My video is too big so I can't upload it, please visit the Vedio.md file to get the google drive site where my video is stored!
 
 I ran into some technical issues, my controller stopped working while I was testing it and I tried everything I could to help reconnect it but that didn't work (even I replaced the battery but that didn't work either) so instead of providing a REAL demo in the demo I tried to go into as much detail as I could to explain what I did and why they worked. I don't want that to happen either... I hope you understand my situation and that my explanation in the video satisfies you.
+
+Here's a screenshot of my current problem, my monitor is fully charged and fully connected but neither of my controllers are connecting.
+![image](https://github.com/user-attachments/assets/5729c245-7632-4c5b-9011-46b303a15325)
+![image](https://github.com/user-attachments/assets/bcfed7b8-d6a6-4eaa-84c5-af769f27dae6)
+![image](https://github.com/user-attachments/assets/727b368e-9c29-477c-aea7-b9fe67f87a01)
  
 **Function Introduction**
 
