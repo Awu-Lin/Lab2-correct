@@ -8,6 +8,7 @@ TagManager:
   - disappearance
   - audible
   - Tree
+  - 'target '
   layers:
   - Default
   - TransparentFX
